@@ -1,3 +1,0 @@
-| Skill | Level |
-| ---- | ---- |
-| skill | level |
